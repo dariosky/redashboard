@@ -1,0 +1,7 @@
+Flask
+flask-cors
+setproctitle
+
+bjoern
+# gunicorn
+# gevent
