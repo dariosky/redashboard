@@ -1,7 +1,11 @@
 Flask
 flask-cors
+flask-socketio
+redis
+
 setproctitle
 
 bjoern
 # gunicorn
-# gevent
+gevent
+gevent-websocket
